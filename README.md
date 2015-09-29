@@ -1,2 +1,2 @@
 # MarkupTests
-![alt text](https://github.com/CynderR/MarkupTests/screenshots/google.png "Logo Title Text 1")
+![alt text](https://raw.github.com/CynderR/MarkupTests/blob/master/screenshots/stackoverflow.png "Inverted stach overflow")
