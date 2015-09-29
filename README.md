@@ -1,5 +1,7 @@
 # iEye!
 ### ARrrr, Save your eyes Matey!
+![alt text](https://raw.githubusercontent.com/CynderR/MarkupTests/master/images/pirate-penguin.svg
+ "Pirate Penguin")
 Turn your searches as dark as your terminal and text editor.
 #### A TamperMonkey script to invert colors of webpages.
 Ahoy, Matey, This script can invert the colors of the page you are on, remember domains to auto invert and exclude path's from domains.
@@ -20,3 +22,5 @@ Avast ye and check out these screenshots!
 
 ##### Note:
 This script only works with chrome because of the webkit-filter: invert(100%);
+
+
