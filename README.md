@@ -1,4 +1,4 @@
-# iEye! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="150px" src="https://raw.githubusercontent.com/CynderR/MarkupTests/master/images/pirate-penguin.png" alt="Pirate Penguin">
+# <img width="150px" src="https://raw.githubusercontent.com/CynderR/MarkupTests/master/images/pirate-penguin.png" alt="Pirate Penguin"> &nbsp;&nbsp; iEye!
 ### ARrrr, Save your eyes Matey!
 
 Turn your searches as dark as your terminal and text editor.
